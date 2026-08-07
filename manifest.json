@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updatedAt": "2026-08-07T00:34:11Z",
+  "version": 2,
+  "updatedAt": "2026-08-07T01:03:12Z",
   "titleTe": "భజన గీతాలు",
   "titleEn": "Devotional Songs",
   "source": "Devotional Songs.pdf",
@@ -12,7 +12,8 @@
       "file": "categories/vinayaka.json",
       "version": 1,
       "songCount": 17,
-      "order": 1
+      "order": 1,
+      "image": "images/vinayaka.png"
     },
     {
       "id": "sri-rama",
@@ -20,7 +21,8 @@
       "file": "categories/sri-rama.json",
       "version": 1,
       "songCount": 22,
-      "order": 2
+      "order": 2,
+      "image": "images/sri-rama.png"
     },
     {
       "id": "venkateswara",
@@ -28,7 +30,8 @@
       "file": "categories/venkateswara.json",
       "version": 1,
       "songCount": 10,
-      "order": 3
+      "order": 3,
+      "image": "images/venkateswara.png"
     },
     {
       "id": "shiva",
@@ -36,7 +39,8 @@
       "file": "categories/shiva.json",
       "version": 1,
       "songCount": 17,
-      "order": 4
+      "order": 4,
+      "image": "images/shiva.png"
     },
     {
       "id": "sri-krishna",
@@ -44,7 +48,8 @@
       "file": "categories/sri-krishna.json",
       "version": 1,
       "songCount": 9,
-      "order": 5
+      "order": 5,
+      "image": "images/sri-krishna.png"
     },
     {
       "id": "ammavaru",
@@ -52,7 +57,8 @@
       "file": "categories/ammavaru.json",
       "version": 1,
       "songCount": 28,
-      "order": 6
+      "order": 6,
+      "image": "images/ammavaru.png"
     },
     {
       "id": "brahmamgari",
@@ -60,7 +66,8 @@
       "file": "categories/brahmamgari.json",
       "version": 1,
       "songCount": 5,
-      "order": 7
+      "order": 7,
+      "image": "images/brahmamgari.png"
     },
     {
       "id": "anjaneya",
@@ -68,7 +75,8 @@
       "file": "categories/anjaneya.json",
       "version": 1,
       "songCount": 7,
-      "order": 8
+      "order": 8,
+      "image": "images/anjaneya.png"
     },
     {
       "id": "saibaba",
@@ -76,7 +84,8 @@
       "file": "categories/saibaba.json",
       "version": 1,
       "songCount": 4,
-      "order": 9
+      "order": 9,
+      "image": "images/saibaba.png"
     },
     {
       "id": "kasinayana",
@@ -84,7 +93,8 @@
       "file": "categories/kasinayana.json",
       "version": 1,
       "songCount": 1,
-      "order": 10
+      "order": 10,
+      "image": "images/kasinayana.png"
     },
     {
       "id": "nagaraja",
@@ -92,7 +102,8 @@
       "file": "categories/nagaraja.json",
       "version": 1,
       "songCount": 6,
-      "order": 11
+      "order": 11,
+      "image": "images/nagaraja.png"
     },
     {
       "id": "ayyappa",
@@ -100,7 +111,8 @@
       "file": "categories/ayyappa.json",
       "version": 1,
       "songCount": 38,
-      "order": 12
+      "order": 12,
+      "image": "images/ayyappa.png"
     },
     {
       "id": "mangala-harathi",
@@ -108,7 +120,8 @@
       "file": "categories/mangala-harathi.json",
       "version": 1,
       "songCount": 2,
-      "order": 13
+      "order": 13,
+      "image": "images/mangala-harathi.png"
     }
   ]
 }
