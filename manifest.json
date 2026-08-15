@@ -1,16 +1,16 @@
 {
-  "version": 3,
-  "updatedAt": "2026-08-07T04:44:10Z",
+  "version": 4,
+  "updatedAt": "2026-08-15T14:13:09Z",
   "titleTe": "భక్తి గీతాలు",
   "titleEn": "Devotional Songs",
   "source": "Devotional Songs.pdf",
-  "totalSongs": 166,
+  "totalSongs": 167,
   "categories": [
     {
       "id": "vinayaka",
       "nameTe": "వినాయకుడు",
       "file": "categories/vinayaka.json",
-      "version": 2,
+      "version": 3,
       "songCount": 17,
       "order": 1,
       "image": "images/vinayaka.png"
@@ -19,8 +19,8 @@
       "id": "sri-rama",
       "nameTe": "శ్రీరాముడు",
       "file": "categories/sri-rama.json",
-      "version": 2,
-      "songCount": 22,
+      "version": 3,
+      "songCount": 21,
       "order": 2,
       "image": "images/sri-rama.png"
     },
@@ -28,8 +28,8 @@
       "id": "venkateswara",
       "nameTe": "వేంకటేశుడు",
       "file": "categories/venkateswara.json",
-      "version": 2,
-      "songCount": 10,
+      "version": 3,
+      "songCount": 12,
       "order": 3,
       "image": "images/venkateswara.png"
     },
@@ -37,7 +37,7 @@
       "id": "shiva",
       "nameTe": "శివుడు",
       "file": "categories/shiva.json",
-      "version": 2,
+      "version": 3,
       "songCount": 17,
       "order": 4,
       "image": "images/shiva.png"
@@ -46,7 +46,7 @@
       "id": "sri-krishna",
       "nameTe": "శ్రీ కృష్ణుడు",
       "file": "categories/sri-krishna.json",
-      "version": 2,
+      "version": 3,
       "songCount": 9,
       "order": 5,
       "image": "images/sri-krishna.png"
@@ -55,8 +55,8 @@
       "id": "ammavaru",
       "nameTe": "అమ్మవారు",
       "file": "categories/ammavaru.json",
-      "version": 2,
-      "songCount": 28,
+      "version": 3,
+      "songCount": 29,
       "order": 6,
       "image": "images/ammavaru.png"
     },
@@ -64,7 +64,7 @@
       "id": "brahmamgari",
       "nameTe": "బ్రహ్మం గారు",
       "file": "categories/brahmamgari.json",
-      "version": 2,
+      "version": 3,
       "songCount": 5,
       "order": 7,
       "image": "images/brahmamgari.png"
@@ -73,7 +73,7 @@
       "id": "anjaneya",
       "nameTe": "ఆంజనేయుడు",
       "file": "categories/anjaneya.json",
-      "version": 2,
+      "version": 3,
       "songCount": 7,
       "order": 8,
       "image": "images/anjaneya.png"
@@ -82,7 +82,7 @@
       "id": "saibaba",
       "nameTe": "సాయిబాబా",
       "file": "categories/saibaba.json",
-      "version": 2,
+      "version": 3,
       "songCount": 4,
       "order": 9,
       "image": "images/saibaba.png"
@@ -91,7 +91,7 @@
       "id": "kasinayana",
       "nameTe": "కాశినాయన",
       "file": "categories/kasinayana.json",
-      "version": 2,
+      "version": 3,
       "songCount": 1,
       "order": 10,
       "image": "images/kasinayana.png"
@@ -100,7 +100,7 @@
       "id": "nagaraja",
       "nameTe": "నాగరాజ",
       "file": "categories/nagaraja.json",
-      "version": 2,
+      "version": 3,
       "songCount": 6,
       "order": 11,
       "image": "images/nagaraja.png"
@@ -109,8 +109,8 @@
       "id": "ayyappa",
       "nameTe": "అయ్యప్ప - మణికంఠ",
       "file": "categories/ayyappa.json",
-      "version": 2,
-      "songCount": 38,
+      "version": 3,
+      "songCount": 36,
       "order": 12,
       "image": "images/ayyappa.png"
     },
@@ -118,8 +118,8 @@
       "id": "mangala-harathi",
       "nameTe": "మంగళ హారతి",
       "file": "categories/mangala-harathi.json",
-      "version": 2,
-      "songCount": 2,
+      "version": 3,
+      "songCount": 3,
       "order": 13,
       "image": "images/mangala-harathi.png"
     }
