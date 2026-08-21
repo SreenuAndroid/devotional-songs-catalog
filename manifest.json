@@ -1,10 +1,10 @@
 {
-  "version": 5,
-  "updatedAt": "2026-08-21T10:43:28Z",
+  "version": 6,
+  "updatedAt": "2026-08-21T11:05:00Z",
   "titleTe": "భక్తి గీతాలు",
   "titleEn": "Devotional Songs",
   "source": "Devotional Songs.pdf",
-  "totalSongs": 168,
+  "totalSongs": 169,
   "categories": [
     {
       "id": "vinayaka",
@@ -28,8 +28,8 @@
       "id": "venkateswara",
       "nameTe": "వేంకటేశుడు",
       "file": "categories/venkateswara.json",
-      "version": 4,
-      "songCount": 11,
+      "version": 5,
+      "songCount": 12,
       "order": 3,
       "image": "images/venkateswara.png"
     },
