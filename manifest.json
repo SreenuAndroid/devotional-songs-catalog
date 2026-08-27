@@ -1,10 +1,10 @@
 {
-  "version": 7,
-  "updatedAt": "2026-08-22T00:10:00Z",
+  "version": 8,
+  "updatedAt": "2026-08-27T00:00:00Z",
   "titleTe": "భక్తి గీతాలు",
   "titleEn": "Devotional Songs",
   "source": "Devotional Songs.pdf",
-  "totalSongs": 172,
+  "totalSongs": 173,
   "categories": [
     {
       "id": "vinayaka",
@@ -82,8 +82,8 @@
       "id": "saibaba",
       "nameTe": "సాయిబాబా",
       "file": "categories/saibaba.json",
-      "version": 3,
-      "songCount": 4,
+      "version": 4,
+      "songCount": 5,
       "order": 9,
       "image": "images/saibaba.png"
     },
